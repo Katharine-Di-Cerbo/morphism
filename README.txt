@@ -19,9 +19,6 @@ Footer 3 - This is the footer 3 widget area.
 CUSTOM BACKGROUND
 This theme supports custom background, which is a native WordPress function.
 
-ICON FONTS
-The icons used in the Digital Pro theme are free of copyright and courtesy of http://ionicons.com/.
-
 LOCALIZATION
 The Digital Pro theme is translation ready.  More information about the translation process can be found here:http://codex.wordpress.org/Translating_WordPress/
 
