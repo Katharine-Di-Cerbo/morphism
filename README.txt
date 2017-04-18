@@ -1,8 +1,8 @@
-DIGITAL PRO
+Morphism - Based on Digital Pro
 http://my.studiopress.com/themes/digital/
 
 INSTALL
-1. Upload the Digital Pro theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
+1. Upload the Morphism theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
 2. Go to your WordPress dashboard and select Appearance.
 3. Activate the Digital Pro theme.
 4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
@@ -18,9 +18,6 @@ Footer 3 - This is the footer 3 widget area.
 
 CUSTOM BACKGROUND
 This theme supports custom background, which is a native WordPress function.
-
-BACKGROUND IMAGE
-The background image used in the Digital Pro theme is free of copyright and courtesy of https://pixabay.com/en/smartphone-mobile-notebook-notepad-925287/.
 
 ICON FONTS
 The icons used in the Digital Pro theme are free of copyright and courtesy of http://ionicons.com/.
